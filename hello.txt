@@ -13,3 +13,4 @@ hello atguigu! hello git!
 hello atguigu! hello git!
 hello atguigu! hello git! main
 hello atguigu! hello git!
+system.out.println("hello git")
